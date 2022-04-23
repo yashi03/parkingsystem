@@ -7,7 +7,6 @@ using namespace std;
 
 
 int main() {
-	// Your code goes here;
 	string vehicle_num;
 	string vehicle_name;
 	string status;
